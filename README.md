@@ -31,7 +31,7 @@
 👋 Hello! My name is Nathália and I am a Front-End developer. I started studying Web programming in 2022, since then, I feel increasingly inspired and willing to pursue my career.<br>
 🧠 My current goal is to get my first job in the development area.<br>
 🧑‍💻 My main technologies are CSS3, HTML5 and JavaScript. But, I am learning about other technologies based on my studies.<br>
-🧑🏻 Always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!<br>
+🧑🏻 I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!<br>
 
 <h2 align='center'>Contact me</h2>
 
