@@ -14,13 +14,15 @@
 
 ##
 
- <div>
+ <div align="center">
 	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+       	<img height='40' width='50' src="https://icongr.am/devicon/webpack-original.svg?size=112&color=currentColor" />
+	 <img src="https://api.iconify.design/logos/vitejs.svg?width=40&height=50" />
 <br>
 <br>
 
