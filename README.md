@@ -15,23 +15,19 @@
 ##
 
  <div>
-	<img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-	<img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-	<img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-	<img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-	<img height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br>
 <br>
 
 </div>
 
-## 🟣 About me:
-
-👋 Hello! My name is Nathália and I am a Front-End developer. I started studying Web programming in 2022, since then, I feel increasingly inspired and willing to pursue my career.<br>
-🧠 My current goal is to get my first job in the development area.<br>
-🧑‍💻 My main technologies are CSS3, HTML5 and JavaScript. But, I am learning about other technologies based on my studies.<br>
-🧑🏻 I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!<br>
+##
+👋 Hello! My name is Nathália and I am a Front-End developer. I started studying Web programming in 2022, since then, I feel increasingly inspired and willing to pursue my career.
 
 <h2 align='center'>Contact me</h2>
 
