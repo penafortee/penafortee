@@ -1,4 +1,9 @@
-#  **Nathália Penaforte de Freitas**<br>
+# <p align="center"> Nathália Penaforte de Freitas<br></p>
+
+
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC18BD&random=false&width=435&lines=+Front-End+Developer" alt="Typing SVG" /></a>
+</p>
 
 <div align='center'>
  
@@ -36,6 +41,11 @@
 <div align='center'>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-freitas-1644031b3/)
+
+<p align="center">
+	<img alingn="center" src="https://profile-counter.glitch.me/penafortee/count.svg" />
+</p>
+
 <hr>
 Making mistakes is part of it, but giving up is not an option.
 <hr>
