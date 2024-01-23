@@ -50,4 +50,6 @@
 Making mistakes is part of it, but giving up is not an option.
 <hr>
 
+<!--<br><a href="https://github.com/penafortee/penafortee"><img src="https://views.whatilearened.today/views/github/penafortee/penafortee.svg" alt="Views Badge"/></a>
+
 <!--![Snake animation](https://github.com/penafortee/penafortee/raw/output/github-contribution-grid-snake.svg)
