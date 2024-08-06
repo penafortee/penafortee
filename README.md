@@ -1,8 +1,5 @@
-# <p align="center"> Nathália Penaforte de Freitas<br></p>
-
-
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC18BD&random=false&width=435&lines=+Front-End+Developer" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=BC18BD&random=false&width=435&lines=+Developer" alt="Typing SVG" />
 </p>
 
 <div align='center'>
@@ -17,26 +14,7 @@
 
 </div>
 
-##
-
- <div align="center">
-	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-	<img height='40' width='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-       	<img height='40' width='50' src="https://icongr.am/devicon/webpack-original.svg?size=112&color=currentColor" />
-	 <img height='40' width='50' src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor" />
-	 <img src="https://api.iconify.design/logos/vitejs.svg?width=40&height=50" />
-<br>
-<br>
-
-</div>
-
-##
-👋 Hello! My name is Nathália and I am a Front-End developer. I started studying Web programming in 2022, since then, I feel increasingly inspired and willing to pursue my career.
-
-<h2 align='center'>Contact me</h2>
+<h2 align='center'></h2>
 
 <div align='center'>
 
