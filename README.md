@@ -1,14 +1,14 @@
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=BC18BD&random=false&width=435&lines=+Developer" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=BC18BD&random=false&width=480&lines=+Developer Nathália Penaforte de Freitas" alt="Typing SVG" />
 </p>
 
 <div align='center'>
  
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=penafortee&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/> 
+  <!--<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=penafortee&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penafortee&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penafortee&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>-->
   
 </div>
 
