@@ -27,5 +27,5 @@ Making mistakes is part of it, but giving up is not an option.
 <hr>
 
 
- ![Snake animation](https://github.com/penafortee/penafortee/blob/output/github-contribution-grid-snake.svg)
+ <!--![Snake animation](https://github.com/penafortee/penafortee/blob/output/github-contribution-grid-snake.svg)-->
 
