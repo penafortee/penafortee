@@ -18,7 +18,7 @@
 
 <div align='center'>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-freitas-1644031b3/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-freitas-/)
 
 <p align="center">
 	<img alingn="center" src="https://profile-counter.glitch.me/penafortee/count.svg" />
