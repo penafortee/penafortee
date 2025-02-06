@@ -6,12 +6,6 @@
 
 <div align='center'>
 
-
-
-<h2 align='center'></h2>
-
-<div align='center'>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-freitas-/)
 
 
@@ -19,9 +13,9 @@
 	<img alingn="center" src="https://profile-counter.glitch.me/penafortee/count.svg" />
 </p>
 
-<hr>
-Making mistakes is part of it, but giving up is not an option.
-<hr>
+<div align= "center">
+	<img src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif">
+</div>
 
 
  <!--![Snake animation](https://github.com/penafortee/penafortee/blob/output/github-contribution-grid-snake.svg)-->
