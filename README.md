@@ -5,10 +5,7 @@
 
 
 <div align='center'>
- 
-<div align="center">  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=penafortee\&theme=dracula&show_icons=true\&locale=en&rank_icon=github&card_width=400px&count_private=true)
 
 
 <h2 align='center'></h2>
