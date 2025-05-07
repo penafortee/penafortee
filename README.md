@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=BC18BD&random=false&width=480&lines=+Developer Nathália Penaforte de Freitas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E61DF7&width=470&lines=Developer+Nath%C3%A1lia+Penaforte+de+Freitas" alt="Typing SVG" />
 </p>
 
 
@@ -22,4 +22,3 @@
 
 
  <!--![Snake animation](https://github.com/penafortee/penafortee/blob/output/github-contribution-grid-snake.svg)-->
-
