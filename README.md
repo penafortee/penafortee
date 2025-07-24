@@ -12,13 +12,21 @@
 
 
 
-<p align="center">
-	<img alingn="center" src="https://profile-counter.glitch.me/penafortee/count.svg" />
-</p>
+
 
 <div align= "center">
 	<img src="https://media1.tenor.com/m/iCqG_iT-h48AAAAC/bills-ugh.gif">
 </div>
+<br>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=penafortee" alt="visit badge"/>
+</p>
+
+
+
+
+
 
 
  <!--![Snake animation](https://github.com/penafortee/penafortee/blob/output/github-contribution-grid-snake.svg)-->
