@@ -7,7 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?username=penafortee&theme=default&hide_border=false)<br/>
 
 
-<div align='center'>
+<div align='center'> 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-freitas-/)
 
