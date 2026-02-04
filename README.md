@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=600&lines=Nath%C3%A1lia+Penaforte+de+Freitas;Front-End+Developer)
 
 
- 
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?username=penafortee&theme=default&hide_border=false)<br/>
 
  
