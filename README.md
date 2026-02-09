@@ -23,8 +23,6 @@ construindo soluções que vão do backend à interface do usuário.
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Frameworks & Bibliotecas
 
@@ -72,11 +70,13 @@ construindo soluções que vão do backend à interface do usuário.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=penafortee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&rank_icon=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=penafortee&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?username=penafortee&theme=tokyonight&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=penafortee&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=penafortee&theme=tokyonight&utcOffset=-3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penafortee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=penafortee&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=penafortee&theme=tokyonight)
 
 </div>
 
