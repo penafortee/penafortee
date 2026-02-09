@@ -68,20 +68,6 @@ construindo soluções que vão do backend à interface do usuário.
 
 ---
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=penafortee&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=penafortee&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=penafortee&theme=tokyonight&utcOffset=-3)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=penafortee&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=penafortee&theme=tokyonight)
-
-</div>
-
----
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=penafortee&left_color=0d1117&right_color=A855F7" alt="visitors"/>
 </p>
