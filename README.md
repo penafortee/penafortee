@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A855F7&background=0D111700&center=true&vCenter=true&random=false&width=600&lines=Nath%C3%A1lia+Penaforte+de+Freitas;Desenvolvedora+de+Software)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A855F7&background=0D111700&center=true&vCenter=true&random=false&width=600&lines=Nath%C3%A1lia+Penaforte+de+Freitas;Desenvolvedora)
 
 </div>
 
