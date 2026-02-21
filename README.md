@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center"> 
+<div align="center">
 
 Desenvolvedora com experiência em aplicações web, mobile e desktop.<br/>
 Atuo no ecossistema .NET e em tecnologias modernas de frontend,<br/>
